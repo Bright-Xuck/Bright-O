@@ -46,8 +46,7 @@
 ---
 
 ## 🚀 Projects  
-🔹 **[E-commerce Platform](https://github.com/your-repo)** – A marketplace connecting buyers and sellers 🛒  
-🔹 **[DevOps Automation Tool](https://github.com/your-repo)** – Automated deployment system with Jenkins ⚙️    
+🔹 **[E-commerce Platform]([(https://github.com/Sacro10/QUICK-MARKET.git)])** – A marketplace connecting buyers and sellers 🛒     
 
 ---
 
