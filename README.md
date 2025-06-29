@@ -5,6 +5,21 @@
 </p>
 
 ---
+✅ To-Do List Web App
+
+A simple and responsive To-Do List application built to help users manage tasks efficiently. Users can add, delete, and mark tasks as complete in a clean and user-friendly interface.
+
+🔧 Features
+	•	Add new tasks
+	•	Mark tasks as completed
+	•	Delete tasks
+	•	Automatically saves tasks using local storage (optional if implemented)
+	•	Responsive UI for desktop and mobile
+
+🛠️ Technologies Used
+	•	HTML5
+	•	CSS3
+	•	JavaScript 
 
 ## 🚀 About Me  
 💡 *Software Engineer | DevOps Enthusiast | Problem Solver*  
