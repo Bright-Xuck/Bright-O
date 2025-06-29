@@ -1,0 +1,113 @@
+body{
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    width: 22rem;
+    height: 25rem;
+    background-color: white;
+    border-radius: 20px;
+}
+h1{
+    margin-left: 1.4rem;
+}
+.input{
+    display: flex;
+    justify-content: center;
+}
+input{
+    background-color: rgb(194, 193, 193);
+    width: 80%;
+    z-index: 1;
+    height: 2rem;
+    border: none;
+    border-radius: 20px;
+}
+input:focus{
+    outline: none;
+    cursor: pointer;
+}
+input::placeholder{
+    color: black;
+    padding: 1rem;
+    opacity: 0.6;
+}
+button{
+    z-index: 2;
+    width: 6rem;
+    height: 2.1rem;
+    margin-left: -80px;
+    border-radius: 20px;
+    background-color: orangered;
+    color: white;
+    border: 2px solid orangered;
+}
+button:hover{
+    z-index: 2;
+    width: 6rem;
+    height: 2rem;
+    margin-left: -80px;
+    border-radius: 20px;
+    background-color: orangered;
+    color: white;
+    border: 2px solid rgb(124, 120, 118);
+    transform: scale(1.2);
+}
+.round{
+    margin: auto;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid rgb(56, 56, 56);
+}
+ul{
+    list-style-type: none;
+}
+.to-do{
+    display: flex;
+    flex-direction: column;
+}
+li{
+    position: relative;
+    left: 2px;
+    cursor: pointer;
+}
+.div1{
+    display: grid;
+    grid-template-columns: 0.2fr 3fr 1fr ;
+    margin: 0.8rem 0;
+}
+
+i.fa-times:hover{
+    background: gainsboro;
+    width: fit-content;
+    padding: 1px;
+    cursor: pointer;
+}
+
+
+.click{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid rgb(56, 56, 56);
+    background-color: orangered;
+}
+
+
+
+.strike{
+    text-decoration: line-through ;
+
+}
